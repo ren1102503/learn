@@ -1,1 +1,2 @@
-
+confgi:
+  info: master branch,spring cloud-config/config-prod.yml version=1
